@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/MEAN-STACK-1/mean-stack-with-angular2#readme",
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.10"
   }
 }
